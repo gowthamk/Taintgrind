@@ -1,0 +1,6 @@
+Taintgrind is a taint analysis that works on top of valgrind.
+It tracks propagation of a tainted input across the execution
+of the program and traces the memory locations to which taint
+travels.
+
+Author: Prof James Moriarty
